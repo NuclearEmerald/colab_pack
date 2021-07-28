@@ -6,6 +6,7 @@ scoreboard objectives add cp_main dummy
 ## forceload chunk
 forceload add 2900000 2900000
 setblock 2900000 0 2900000 chest
+setblock 2900000 1 2900000 bedrock
 
 ## testing trigger
 scoreboard objectives add test trigger
