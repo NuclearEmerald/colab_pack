@@ -9,3 +9,4 @@ execute at @e[type=item,tag=craft.chestplate.netherite_chestplate] as @e[type=it
 kill @e[tag=mark.kill]
 
 execute as @a if data entity @s Inventory[{Slot:102b,id:"minecraft:leather_chestplate",tag:{display:{color:16575353},CustomModelData:1}}] run function colab_pack:item/end_chestplate
+function colab_pack:item/ephf
