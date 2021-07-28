@@ -1,0 +1,15 @@
+{
+  "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+  "criteria": {
+    "crafted": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "colab_pack:enderite_ingot"
+      }
+    }
+  },
+  "requirements": [["crafted"]],
+  "rewards": {
+    "function": "colab_pack:crafted/check/enderite_ingot"
+  }
+}

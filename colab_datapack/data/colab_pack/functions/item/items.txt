@@ -1,0 +1,29 @@
+item_name - item_identifier - base_item - CustomModelData - more...
+
+
+enderite scrap - ensc - minecraft:netherite_scrap - 101001001
+enderite ingot - enin - minecraft:netherite_ingot - 101001002
+
+enderite helmet - enhe - minecraft:diamond_helmet - 101002001
+enderite chestplate - ench - minecraft:diamond_chestplate - 101002002
+enderite leggings - enle - minecraft:diamond_leggings - 101002003
+enderite boots - enbo - minecraft:diamond_boots - 101002004
+enderite sword - ensw - minecraft:diamond_sword - 101002005
+enderite shovel - ensh - minecraft:diamond_shovel - 101002006
+enderite pickaxe - enpi - minecraft:diamond_pickaxe - 101002007
+enderite axe - enax - minecraft:diamond_axe - 101002008
+enderite hoe - enho - minecraft:diamond_hoe - 101002009
+
+
+overite scrap - ovsc - minecraft:netherite_scrap - 102001001
+overite ingot - ovin - minecraft:netherite_ingot - 102001002
+
+overite helmet - ovhe - minecraft:diamond_helmet - 102002001
+overite chestplate - ovch - minecraft:diamond_chestplate - 102002002
+overite leggings - ovle - minecraft:diamond_leggings - 102002003
+overite boots - ovbo - minecraft:diamond_boots - 102002004
+overite sword - ovsw - minecraft:diamond_sword - 102002005
+overite shovel - ovsh - minecraft:diamond_shovel - 102002006
+overite pickaxe - ovpi - minecraft:diamond_pickaxe - 102002007
+overite axe - ovax - minecraft:diamond_axe - 102002008
+overite hoe - ovho - minecraft:diamond_hoe - 102002009
